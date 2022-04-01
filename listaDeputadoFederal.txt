@@ -1,0 +1,25 @@
+9101,Atletismo
+9102,Ginástica Artística
+9103,Boxe
+9104,Halterofilismo
+9105,Golfe
+9201,Sertanejo
+9202,Reggae
+9203,Música Clássica
+9204,Ópera
+9205,Mariachi
+9301,Artista
+9302,Operário
+9303,Astronauta
+9304,Cozinheira
+9305,Fotógrafo
+9401,Boi-Bumbá
+9402,Peão de Boiadeiro
+9403,Oktoberfest
+9404,Semana Farroupilha
+9405,Cavalhadas
+9501,Lobisomem
+9502,Cuca
+9503,Negrinho do Pastoreio
+9504,Mapinguari
+9505,Cabra-Cabriola

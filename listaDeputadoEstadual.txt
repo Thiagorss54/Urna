@@ -1,0 +1,19 @@
+91001,Basquete
+91111,Hipismo
+91234,Patinação
+91991,Beisebol
+92001,Frevo
+92002,Jazz 
+92003,Música Eletrônica
+92004,Heavy Metal
+92005,Salsa
+93001,Garçom
+93002,Motorista
+94000,Páscoa
+94444,Réveillon
+94949,Festa da Uva
+95001,Iara
+95002,Barba-Ruiva
+95003,Bicho-Papão
+95004,Matintapereira
+95005,Pisadeira
